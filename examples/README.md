@@ -4,9 +4,13 @@ This directory contains example outputs demonstrating how the agency's agents ca
 
 ## Why This Exists
 
-The agency-agents repo defines dozens of specialized agents across engineering, design, marketing, product, support, spatial computing, and project management. But agent definitions alone don't show what happens when you **deploy them all at once** on a single mission.
+The agency-agents repo defines dozens of specialized agents across engineering, design, marketing, product, support, spatial computing, and project management. But agent definitions alone don't show what happens when they work together.
 
 These examples answer the question: *"What does it actually look like when the full agency collaborates?"*
+
+## Quick Note
+
+This folder is a good place to prototype new multi-agent workflows, validate example outputs before they are promoted to the main docs, and test pull-request-ready examples with minimal churn.
 
 ## Contents
 
@@ -37,7 +41,7 @@ These examples answer the question: *"What does it actually look like when the f
 | Project Shepherd | Phase plan, sprints, risk register |
 | XR Interface Architect | Spatial UI specification |
 
-**Key takeaway:** All 8 agents ran in parallel and produced coherent, cross-referencing plans without coordination overhead. The output demonstrates the agency's ability to go from "find an opportunity" to "here's the full blueprint" in a single session.
+**Key takeaway:** All 8 agents ran in parallel and produced coherent, cross-referencing plans without coordination overhead. The output demonstrates the agency's ability to go from "find an opportunity" to "generate a usable product blueprint" in a single workflow.
 
 ## Adding New Examples
 
